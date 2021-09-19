@@ -1,5 +1,10 @@
 ## Changelogs for OnePlus 7 (guacamoleb)
 
+# v4.5.1 Eternal-Hotfix
+- Improved Screen off FOD
+- Fixed ambient display
+- Fixed Screen Cast
+
 # v4.5.1 Eternal
 - Include OOS Camera
 - Update kernel to GCC compiled Dora labs v196
